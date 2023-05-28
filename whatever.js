@@ -1,6 +1,6 @@
 let lastName = 1
 
-alert('lastName')
+alert(lastName)
 
 
 
