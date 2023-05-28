@@ -1,1 +1,7 @@
-let age = 45
+let lastName = 1
+
+alert('lastName')
+
+
+
+
